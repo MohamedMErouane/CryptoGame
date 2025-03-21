@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mysten/sui.js": "^0.20.0",
+    "@mysten/wallet-adapter-react": "^11.0.0",
+    "@mysten/wallet-standard": "^0.13.29"
+  }
+}
